@@ -4,7 +4,7 @@
 
 
 # jfinal_mall
-基于jfinal前后端分离，API模式，多端覆盖（公众号，微信|支付宝小程序，App，pc网站）的一个商城项目，支持 b2b2c多店版，也可以支持单店版。
+基于jfinal前后端分离，多端覆盖（公众号，微信|支付宝小程序，App）的一个商城项目，支持 b2b2c多店版，也可以支持单店版。
 #
 系统集成：shiro权限，ehcache缓存，fastfds分布式文件服务器，图片剪裁组件，百度ueditor，websocket服务。
 #
